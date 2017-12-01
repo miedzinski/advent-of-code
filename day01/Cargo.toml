@@ -1,7 +1,6 @@
 [package]
-name = "aoc"
+name = "day01"
 version = "0.1.0"
 authors = ["Dominik Miedziński <dominik@mdzn.pl>"]
-publish = false
 
 [dependencies]
